@@ -1,25 +1,24 @@
 {
-  "object": {
-    "pins": [
-      {
-        "package": "RxSwift",
-        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
-        "state": {
-          "branch": null,
-          "revision": "b4307ba0b6425c0ba4178e138799946c3da594f8",
-          "version": "6.5.0"
-        }
-      },
-      {
-        "package": "WeakMapTable",
-        "repositoryURL": "https://github.com/ReactorKit/WeakMapTable.git",
-        "state": {
-          "branch": null,
-          "revision": "cb05d64cef2bbf51e85c53adee937df46540a74e",
-          "version": "1.2.1"
-        }
+  "originHash" : "8c67e602f0ff271cd4e5b2afda0d0f1539b8b0e17fbb0132f00eea66986cac01",
+  "pins" : [
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift.git",
+      "state" : {
+        "revision" : "b06a8c8596e4c3e8e7788e08e720e3248563ce6a",
+        "version" : "6.7.1"
       }
-    ]
-  },
-  "version": 1
+    },
+    {
+      "identity" : "weakmaptable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactorKit/WeakMapTable.git",
+      "state" : {
+        "revision" : "cb05d64cef2bbf51e85c53adee937df46540a74e",
+        "version" : "1.2.1"
+      }
+    }
+  ],
+  "version" : 3
 }
